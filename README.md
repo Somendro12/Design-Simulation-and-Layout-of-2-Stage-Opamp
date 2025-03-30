@@ -2,7 +2,9 @@ Project Overview:
 
 This project focuses on the design, simulation, and layout optimization of a two-stage CMOS operational amplifier (op-amp) using industry-standard tools like Cadence Virtuoso, Spectre. The two-stage op-amp is a fundamental building block in analog and mixed-signal circuits, widely used in applications such as data converters, filters, and sensor interfaces. The goal is to achieve high gain, bandwidth, phase margin, and low power consumption while meeting key performance specifications.
 
+
 Key Design Objectives:
+
 
 Supply voltage: 1.8 V 
 
@@ -18,7 +20,9 @@ Slew Rate & Output Swing: 20 V/µs to ensure fast transient response and adequat
 
 Laoad Capacitance: 2pF 
 
+
 Design Methodology:
+
 
 First Stage (Differential Amplifier): Provides high gain and common-mode rejection (CMRR).
 
@@ -28,7 +32,9 @@ Frequency Compensation (Miller Compensation): Ensures stability via pole-splitti
 
 Bias Circuitry: Uses current mirror for stable biasing.
 
+
 Simulation & Verification:
+
 
 DC Analysis: Check bias points and operating regions (saturation for MOSFETs).
 
@@ -40,7 +46,9 @@ Corner Analysis: Assess robustness under process variations.
 
 
 
+
 Learning Outcomes:
+
 
 Hands-on experience in CMOS analog design/Layout.
 
@@ -50,7 +58,9 @@ Proficiency in EDA tools for circuit simulation/Layout.
 
 Insight into trade-offs (speed vs. power, gain vs. bandwidth).
 
+
 Tools & Technologies:
+
 
 Schematic Design: Cadence Virtuoso / Spectre
 
@@ -58,6 +68,8 @@ Simulation: Spectre
 
 Layout: Virtuoso Layout XL 
 
+
 Why This Project?
+
 
 This project is ideal for me to enter in VLSI, analog IC design and layout, offering practical exposure to real-world op-amp design challenges. It also serves as a foundation for advanced topics like folded-cascode op-amps or low-noise amplifiers.
