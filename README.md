@@ -5,17 +5,11 @@ This project focuses on the design, simulation, and layout optimization of a two
 Key Design Objectives:
 
 Supply voltage: 1.8 V
-
 High DC Gain: Achieve a gain > 60 dB to ensure precision amplification.
-
 Sufficient Bandwidth: Unity-gain Bandwith (UGB) of minimum 30MHz .
-
 Good Phase Margin: Maintain > 45° phase margin for stability.
-
 Low Power Consumption: Design for minimal power dissipation of 2 mW.
-
 Slew Rate & Output Swing: 20 V/µs to ensure fast transient response and adequate output voltage range.
-
 Laoad Capacitance: 2pF
 
 Design Methodology:
